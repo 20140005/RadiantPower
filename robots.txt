@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Core pages
+Allow: /index.html
+Allow: /about.html
+Allow: /residential-solar.html
+Allow: /commercial-solar-panels.html
+Allow: /contact-us.html
+Allow: /solardeals.html
+Allow: /battery.html
+
+Sitemap: https://radiantpower.com.au/sitemap.xml
